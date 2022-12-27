@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rhayron/rhayron/raw/main/assets/header-github.gif" alt="Hi 🤙🏻, I'm Rhayron">
+  <img src="https://github.com/rhayron/rhayron/raw/main/assets/ElectricalEngineer.jpg" width="50%" alt="Hi 🤙🏻, I'm Rhayron">
 </p>
 
  <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="25" height="25" />! I'm Rhayron ! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> </h1>
