@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rhayron</h1>
+<p align="center">
+  <img src="https://github.com/rhayron/rhayron/raw/main/assets/header-github.gif" alt="Hi 🤙🏻, I'm Rhayron">
+</p>
+
 - 🔭 I’m currently working on **Alta Rail Technology**
-
 - 🌱 I’m currently learning **C++, C#, RTOs and GAN’s(Generative Adversarial Networks)**
-
 - 💬 Ask me about **Electrical Engineering, Python, C, Computer Vision**
-
 - 📫 How to reach me **rhayron.nogueira@gmail.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/rhayron](www.linkedin.com/in/rhayron)
-
 - ⚡ Fun fact **I'm part of the resistance**
 
 <h3 align="left">Connect with me:</h3>
