@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rhayron/rhayron/raw/main/assets/ElectricalEngineer.jpg" width="50%" alt="Hi 🤙🏻, I'm Rhayron">
+  <img src="https://github.com/rhayron/rhayron/raw/main/assets/eletricaleng.png" width="50%" alt="Hi 🤙🏻, I'm Rhayron">
 </p>
 
 # Hi! I'm Rhayron
