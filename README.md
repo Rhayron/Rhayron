@@ -4,7 +4,7 @@
 
 # Hi! I'm Rhayron
 
-- 🔭 I'm currently working on **Caterpilar LTDA**
+- 🔭 I'm currently working on **Caterpillar LTDA**
 - 🌱 I'm currently learning **C++, C#, RTOs and GAN's(Generative Adversarial Networks)**
 - 💬 Ask me about **Electrical Engineering, Python, C, Computer Vision**
 - 📫 How to reach me **rhayron.nogueira@gmail.com**
