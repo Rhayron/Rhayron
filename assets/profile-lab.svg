@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="still" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Rhayron Nogueira — Onde sinais viram sistemas</title>
+  <desc id="desc">Capa de um laboratório aberto. Quatro circuitos conectam visão, ecos, agentes e interfaces a um processador com as iniciais RN. Pulsos suaves percorrem as conexões.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#233830" stroke-width="0.6"/>
+    </pattern>
+    <radialGradient id="halo">
+      <stop stop-color="#285642" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#101d19" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', Arial, sans-serif; }
+      .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+      .signal { stroke-dasharray: 9 260; animation: flow 7s linear infinite; }
+      .s2 { animation-delay: -1.75s; }
+      .s3 { animation-delay: -3.5s; }
+      .s4 { animation-delay: -5.25s; }
+      .core { animation: breathe 6s ease-in-out infinite; }
+      :target .signal, :target .core { animation: none; }
+      @keyframes flow { to { stroke-dashoffset: -538; } }
+      @keyframes breathe { 0%, 100% { opacity: .4; } 50% { opacity: .9; } }
+      @media (prefers-reduced-motion: reduce) { .signal, .core { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1280" height="480" rx="24" fill="#101d19"/>
+  <rect x="1" y="1" width="1278" height="478" rx="23" fill="url(#grid)" stroke="#30473c"/>
+  <ellipse cx="1015" cy="244" rx="290" ry="235" fill="url(#halo)"/>
+  <g class="mono" font-size="14" letter-spacing="1.8">
+    <path d="M48 48h12m-6-6v12" stroke="#b7e69b" stroke-width="2"/>
+    <text x="78" y="53" fill="#b7e69b">LABORATÓRIO ABERTO</text>
+    <text x="1224" y="53" fill="#9fb5a8" text-anchor="end">CURITIBA · BR</text>
+  </g>
+  <path d="M48 76H1232" stroke="#30473c"/>
+  <g class="sans">
+    <text x="48" y="130" fill="#b8c9bf" font-size="22">Rhayron Nogueira</text>
+    <text x="44" y="210" fill="#f2f5eb" font-size="68" font-weight="700" letter-spacing="-2">Onde sinais</text>
+    <text x="44" y="284" fill="#b7e69b" font-size="68" font-weight="700" letter-spacing="-2">viram sistemas.</text>
+    <text x="48" y="334" fill="#b8c9bf" font-size="19">Engenharia elétrica · visão computacional</text>
+    <text x="48" y="362" fill="#b8c9bf" font-size="19">Ultrassom na GPU · IA que faz companhia</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#496052" stroke-width="2">
+      <path d="M836 142H883L930 208H970"/>
+      <path d="M836 208H898L929 230H970"/>
+      <path d="M836 274H898L929 252H970"/>
+      <path d="M836 340H883L930 274H970"/>
+      <path d="M1106 240H1198"/>
+    </g>
+    <g stroke-width="3">
+      <path class="signal" stroke="#b7e69b" d="M836 142H883L930 208H970"/>
+      <path class="signal s2" stroke="#8ed1d2" d="M836 208H898L929 230H970"/>
+      <path class="signal s3" stroke="#dab4ee" d="M836 274H898L929 252H970"/>
+      <path class="signal s4" stroke="#efbb88" d="M836 340H883L930 274H970"/>
+    </g>
+  </g>
+  <g class="mono" font-size="15">
+    <g fill="#182920" stroke="#496052">
+      <rect x="698" y="122" width="138" height="40" rx="8"/>
+      <rect x="698" y="188" width="138" height="40" rx="8"/>
+      <rect x="698" y="254" width="138" height="40" rx="8"/>
+      <rect x="698" y="320" width="138" height="40" rx="8"/>
+    </g>
+    <g text-anchor="middle">
+      <text x="767" y="148" fill="#b7e69b">visão</text>
+      <text x="767" y="214" fill="#8ed1d2">ecos</text>
+      <text x="767" y="280" fill="#dab4ee">agentes</text>
+      <text x="767" y="346" fill="#efbb88">interfaces</text>
+    </g>
+  </g>
+  <rect class="core" x="958" y="162" width="160" height="156" rx="24" fill="none" stroke="#b7e69b"/>
+  <rect x="970" y="174" width="136" height="132" rx="16" fill="#20382b" stroke="#b7e69b" stroke-width="1.5"/>
+  <g stroke="#749b6b" stroke-width="2">
+    <path d="M996 164v-12m21 12v-12m21 12v-12m21 12v-12m21 12v-12"/>
+    <path d="M996 316v12m21-12v12m21-12v12m21-12v12m21-12v12"/>
+  </g>
+  <text class="sans" x="1038" y="254" fill="#d6f2c5" font-size="44" font-weight="700" text-anchor="middle" letter-spacing="-2">RN</text>
+  <circle cx="1198" cy="240" r="6" fill="#b7e69b"/>
+  <circle class="core" cx="1198" cy="240" r="15" fill="none" stroke="#b7e69b"/>
+  <text class="mono" x="1038" y="363" fill="#9fb5a8" font-size="13" text-anchor="middle" letter-spacing="1">IDEIAS EM CONSTRUÇÃO</text>
+  <path d="M48 403H1232" stroke="#30473c"/>
+  <g class="mono" font-size="13" letter-spacing="1">
+    <text x="48" y="441" fill="#9fb5a8">OBSERVAR</text>
+    <path d="M145 437h42m-5-4 5 4-5 4" fill="none" stroke="#749b6b"/>
+    <text x="203" y="441" fill="#9fb5a8">EXPERIMENTAR</text>
+    <path d="M327 437h42m-5-4 5 4-5 4" fill="none" stroke="#749b6b"/>
+    <text x="385" y="441" fill="#b7e69b">CONSTRUIR</text>
+    <text x="1232" y="441" fill="#9fb5a8" text-anchor="end">DO SINAL AO MUNDO REAL ↗</text>
+  </g>
+</svg>
