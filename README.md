@@ -82,7 +82,7 @@
     </td>
   </tr>
   <tr>
-    <td width="290" valign="top"><a href="https://github.com/Project-H-I-N-A/hina-releases"><img src="assets/projects/hina.jpg" width="270" alt="Dashboard da Hina com avatar, humor e capacidades"></a></td>
+    <td width="290" valign="top"><a href="https://github.com/Project-H-I-N-A/hina-releases"><img src="assets/projects/hina-vivian.gif" width="270" alt="Vivian, avatar Live2D usado no Project Hina, em movimento"></a></td>
     <td valign="top">
       <b><a href="https://github.com/Project-H-I-N-A/hina-releases">Project Hina</a></b> &nbsp;<sub>jun. 2026 em diante · 929 commits · instaladores públicos</sub><br>
       <img src="https://img.shields.io/badge/Python%203.13-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Electron%2043-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"> <img src="https://img.shields.io/badge/Live2D%20%C2%B7%20VRM-8f1f6e?style=flat-square" alt="Live2D VRM"> <img src="https://img.shields.io/badge/MCP-444?style=flat-square" alt="MCP"> <img src="https://img.shields.io/badge/SQLite%20%C2%B7%20sqlite--vec-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"><br>
