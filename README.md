@@ -20,18 +20,18 @@
   <img src="https://img.shields.io/badge/Curitiba-Brasil-2f6b3f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Curitiba, Brasil">
 </p>
 
-## 👋 Sobre mim
+## Sobre mim
 
 <img align="right" width="250" src="assets/eletricaleng.png" alt="Ilustração de um engenheiro apontando para um transformador">
 
 <ul>
-  <li>🔭 <b>Hoje</b> sou analista de processos de manufatura na <b>Caterpillar Brasil</b>: visão computacional na linha de montagem, agentes LLM dentro das aplicações da fábrica e automação de bancadas e CLPs.</li>
-  <li>🎓 <b>Mestrando</b> no CPGEI / UTFPR (conceito CAPES 6): modelo híbrido de deep learning com o método SEAM para imageamento ultrassônico de phased array. Engenheiro eletricista pela UTFPR, turma 2019 a 2023.</li>
-  <li>🌙 <b>À noite</b> construo o <b>Project Hina</b>, uma companheira de desktop com voz, memória e humor, e o que mais aparecer no caderno.</li>
-  <li>🌱 <b>Aprendendo agora</b>: Gaussian Splatting, Wear OS, Taichi Lang e modelos híbridos para ultrassom.</li>
-  <li>💬 <b>Pergunte sobre</b>: YOLO em produção, RTSP e Modbus, TFM na GPU, Live2D, agentes com MCP.</li>
-  <li>🗣️ <b>Idiomas</b>: português nativo · inglês avançado · francês A1.</li>
-  <li>📫 <b>Contato</b>: <a href="mailto:rhayron.nogueira@gmail.com">rhayron.nogueira@gmail.com</a></li>
+  <li><b>Hoje</b> sou analista de processos de manufatura na <b>Caterpillar Brasil</b>: visão computacional na linha de montagem, agentes LLM dentro das aplicações da fábrica e automação de bancadas e CLPs.</li>
+  <li><b>Mestrando</b> no CPGEI / UTFPR (conceito CAPES 6): modelo híbrido de deep learning com o método SEAM para imageamento ultrassônico de phased array. Engenheiro eletricista pela UTFPR, turma 2019 a 2023.</li>
+  <li><b>À noite</b> construo o <b>Project Hina</b>, uma companheira de desktop com voz, memória e humor, e o que mais aparecer no caderno.</li>
+  <li><b>Aprendendo agora</b>: Gaussian Splatting, Wear OS, Taichi Lang e modelos híbridos para ultrassom.</li>
+  <li><b>Pergunte sobre</b>: YOLO em produção, RTSP e Modbus, TFM na GPU, Live2D, agentes com MCP.</li>
+  <li><b>Idiomas</b>: português nativo · inglês avançado · francês A1.</li>
+  <li><b>Contato</b>: <a href="mailto:rhayron.nogueira@gmail.com">rhayron.nogueira@gmail.com</a></li>
 </ul>
 
 <blockquote><em>“Gosto de conversar com as áreas, entender o processo real e construir a solução mais simples que resolve.”</em></blockquote>
@@ -41,6 +41,14 @@
 ## 🚀 Projetos em destaque
 
 <table border="0" cellpadding="8">
+  <tr>
+    <td width="290" valign="top"><a href="https://rhayron.github.io/#splat-project"><img src="assets/projects/splat.jpg" width="270" alt="Borboleta renderizada por Gaussian Splatting, cena pública de referência do Spark"></a></td>
+    <td valign="top">
+      <b>Gaussian Splat</b> &nbsp;<sub>mai. 2026 · privado</sub><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/pycolmap%20%C2%B7%20gsplat-444?style=flat-square" alt="pycolmap gsplat"> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"><br>
+      De muitas imagens, um espaço para explorar. O FFmpeg extrai os quadros, o SfM com pycolmap estima as câmeras, Splatfacto e gsplat ajustam gaussianas na GPU e o pipeline exporta PLY para um visualizador WebGL no navegador. Etapas acompanhadas por SSE, prévia durante o treino pelo viewer Viser, autenticação em cookie httpOnly e planos Free e Pro com Stripe. <sub>A imagem é a cena pública de referência do Spark, usada para explorar a técnica.</sub>
+    </td>
+  </tr>
   <tr>
     <td width="290" valign="top"><a href="https://github.com/Rhayron/acoustic_gpu"><img src="assets/projects/acoustic-gpu.jpg" width="270" alt="Reconstruções TFM lado a lado: referência de Bristol e acoustic_gpu"></a></td>
     <td valign="top">
@@ -63,14 +71,6 @@
       <b>ErrorProofing System</b> e <b>Container Occupancy</b> &nbsp;<sub>Caterpillar Brasil · 2023 em diante · privado</sub><br>
       <img src="https://img.shields.io/badge/YOLO%20v5%E2%80%93v11-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/RTSP-444?style=flat-square" alt="RTSP"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"><br>
       Inspeção visual da linha de montagem: lê os feeds RTSP das câmeras industriais, roda os modelos em microsserviços e devolve <b>pass/fail em tempo real</b> ao operador, cruzando com o torque das bancadas e os dados do MES em Oracle. Imagens de inferência no Azure Blob com rastreabilidade; Pytest e Coverage no Azure DevOps antes de cada versão ir para a linha. No Container Occupancy, uma webcam e um YOLOv10 de segmentação calculam o percentual de preenchimento do contêiner para a logística. Ao lado, um agente LLM com RAG responde dúvidas e executa tarefas dentro das aplicações da fábrica.
-    </td>
-  </tr>
-  <tr>
-    <td width="290" valign="top"><a href="https://rhayron.github.io/#splat-project"><img src="assets/projects/splat.jpg" width="270" alt="Borboleta renderizada por Gaussian Splatting, cena pública de referência do Spark"></a></td>
-    <td valign="top">
-      <b>Splat SaaS</b> &nbsp;<sub>mai. 2026 · privado</sub><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/pycolmap%20%C2%B7%20gsplat-444?style=flat-square" alt="pycolmap gsplat"> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"><br>
-      De muitas imagens, um espaço para explorar. O FFmpeg extrai os quadros, o SfM com pycolmap estima as câmeras, Splatfacto e gsplat ajustam gaussianas na GPU e o pipeline exporta PLY para um visualizador WebGL no navegador. Etapas acompanhadas por SSE, prévia durante o treino pelo viewer Viser, autenticação em cookie httpOnly e planos Free e Pro com Stripe. <sub>A imagem é a cena pública de referência do Spark, usada para explorar a técnica.</sub>
     </td>
   </tr>
   <tr>
