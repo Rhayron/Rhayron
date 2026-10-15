@@ -26,6 +26,27 @@ Sou **Rhayron**, engenheiro eletricista em Curitiba. Gosto de pegar um problema 
 - **No mestrado do CPGEI / UTFPR**, pesquiso imageamento ultrassônico de phased array, combinando deep learning e o método SEAM.
 - **Depois do expediente**, construo a Hina e exploro interfaces, computação gráfica e pequenos produtos.
 
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="#enxergar">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/eletricaleng.png">
+          <img src="assets/ElectricalEngineer.png" width="220" alt="Ilustração de um engenheiro ao lado de um transformador, com ferramentas e símbolos de eletricidade.">
+        </picture>
+      </a>
+      <p><b>Do lado de fora da tela</b><br><sub>Câmeras, bancadas e o mundo físico.</sub></p>
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/acoustic-gpu.jpg">
+        <img src="assets/header-github.gif" width="400" alt="">
+      </picture>
+      <p><b>Por dentro dos algoritmos</b><br><sub>Sinais, imagens e conexões que viram software.</sub></p>
+    </td>
+  </tr>
+</table>
+
 > Entender o processo real. Fazer o primeiro protótipo. Medir. Melhorar.
 
 <a name="projetos"></a>
@@ -143,18 +164,22 @@ Voz, memória e humor em uma personagem que habita o desktop. A Hina ouve, conve
   </tr>
 </table>
 
-<details>
-<summary><b>Splat SaaS</b> · de uma coleção de fotos a um espaço navegável</summary>
+#### Splat SaaS · de fotos a um espaço navegável
 
 <p><a href="https://rhayron.github.io/#splat-project"><img src="assets/projects/splat.jpg" width="480" alt="Borboleta em Gaussian Splatting; cena pública de referência do Spark."></a></p>
 
-FFmpeg extrai os quadros, pycolmap estima as câmeras, Splatfacto e gsplat ajustam gaussianas na GPU. O resultado vai para um visualizador WebGL, com acompanhamento por SSE e prévia durante o treino pelo Viser.
+Uma coleção de imagens vira uma cena 3D para explorar no navegador. O pipeline reconstrói as câmeras, ajusta gaussianas na GPU e entrega o resultado em um visualizador WebGL.
 
 `FastAPI` `React` `Three.js` `pycolmap` `gsplat` `CUDA`
 
 <sub>Projeto privado. A imagem é uma cena pública de referência do Spark, usada para explorar a técnica.</sub>
 
 **[Ver no portfólio →](https://rhayron.github.io/#splat-project)**
+
+<details>
+<summary>Da captura à reconstrução</summary>
+
+FFmpeg extrai os quadros, pycolmap estima as câmeras, Splatfacto e gsplat ajustam gaussianas na GPU. A exportação em PLY segue para o visualizador, com acompanhamento por SSE e prévia durante o treino pelo Viser.
 
 </details>
 
@@ -206,12 +231,19 @@ Nem toda ideia começa grande. Algumas começam com “será que dá para automa
   <img src="assets/timeline-light.svg" width="100%" alt="Trajetória de 2021 a 2026: visão computacional e termografia, firmware e graduação na UTFPR, Caterpillar, pesquisa com ultrassom, Coado e Project Hina.">
 </picture>
 
+### Antes disso, um experimento por vez
+
+<p><a href="https://github.com/Rhayron/CaosDiffusion"><img src="assets/projects/arquivo.jpg" width="480" alt="Montanha ao pôr do sol: uma das artes do CaosDiffusion."></a></p>
+
+**[CaosDiffusion →](https://github.com/Rhayron/CaosDiffusion)** &nbsp; <sub>Do arquivo · 2021–2023</sub>
+
+Um prompt sorteado, uma arte gerada por IA e uma publicação diária no Twitter. Um dos primeiros encontros entre automação e criação — antes dos pipelines de mídia, das gaussianas e da Hina.
+
+**[Mais do arquivo no portfólio →](https://rhayron.github.io/#arquivo)**
+
 <details>
-<summary>Antes disso: os primeiros circuitos, cadernos e experimentos</summary>
+<summary>Os primeiros circuitos, cadernos e experimentos</summary>
 
-<p><a href="https://rhayron.github.io/#arquivo"><img src="assets/projects/arquivo.jpg" width="400" alt="Montanha ao pôr do sol: uma das artes do CaosDiffusion."></a></p>
-
-- **[CaosDiffusion](https://github.com/Rhayron/CaosDiffusion):** um prompt sorteado, uma arte por IA e uma publicação diária no Twitter.
 - **[YOLOv3: detecção e segmentação](https://github.com/Rhayron/YOLOv3_detection_segmentation):** cadernos sobre NMS, mAP e matriz de confusão, além de uma implementação anterior do YOLOv3 a partir do arquivo de configuração.
 - **ART:** firmware para computadores de bordo de locomotivas e automação de testes de hardware.
 - **UTFPR:** termografia de subestações para a Copel, hardware de um veículo guiado automatizado e graduação em Engenharia Elétrica entre 2019 e 2023.
