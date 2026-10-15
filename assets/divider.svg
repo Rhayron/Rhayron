@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 44" width="600" height="44" role="img" aria-label="separador">
+<line x1="20" y1="22" x2="262" y2="22" stroke="#869771" stroke-width="1" opacity=".6"/>
+<line x1="338" y1="22" x2="580" y2="22" stroke="#869771" stroke-width="1" opacity=".6"/>
+<g transform="translate(300 22)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+<g transform="translate(-16 -16) scale(.32)"><path d="M50 50C8 30 17 0 42 12C58 20 50 42 50 50C70 8 100 17 88 42C80 58 58 50 50 50C92 70 83 100 58 88C42 80 50 58 50 50C30 92 0 83 12 58C20 42 42 50 50 50Z" fill="none" stroke="#869771" stroke-width="7"/><circle cx="50" cy="50" r="9" fill="#869771"/></g></g></g>
+<text x="278" y="27" text-anchor="middle" font-family="'Bricolage Grotesque','Archivo','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#869771">✳</text>
+<text x="322" y="27" text-anchor="middle" font-family="'Bricolage Grotesque','Archivo','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#869771">✳</text>
+</svg>
