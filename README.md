@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=BCCF9D&center=true&vCenter=true&width=720&height=42&lines=Ol%C3%A1%2C+eu+sou+o+Rhayron+%F0%9F%91%8B;Ensino+c%C3%A2meras+a+enxergar+numa+linha+de+montagem;Reconstruo+imagens+de+ultrassom+na+GPU;Construo+a+Hina%2C+uma+companheira+de+desktop;Sempre+aprendendo+algo+novo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=526747&center=true&vCenter=true&width=720&height=42&lines=Ol%C3%A1%2C+eu+sou+o+Rhayron+%F0%9F%91%8B;Ensino+c%C3%A2meras+a+enxergar+numa+linha+de+montagem;Reconstruo+imagens+de+ultrassom+na+GPU;Construo+a+Hina%2C+uma+companheira+de+desktop;Sempre+aprendendo+algo+novo" alt="Olá, eu sou o Rhayron. Ensino câmeras a enxergar numa linha de montagem, reconstruo imagens de ultrassom na GPU e construo a Hina, uma companheira de desktop.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=BCCF9D&center=true&vCenter=true&width=720&height=42&lines=Ol%C3%A1%2C+eu+sou+o+Rhayron;Ensino+c%C3%A2meras+a+enxergar+numa+linha+de+montagem;Reconstruo+imagens+de+ultrassom+na+GPU;Construo+a+Hina%2C+uma+companheira+de+desktop;Sempre+aprendendo+algo+novo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=526747&center=true&vCenter=true&width=720&height=42&lines=Ol%C3%A1%2C+eu+sou+o+Rhayron;Ensino+c%C3%A2meras+a+enxergar+numa+linha+de+montagem;Reconstruo+imagens+de+ultrassom+na+GPU;Construo+a+Hina%2C+uma+companheira+de+desktop;Sempre+aprendendo+algo+novo" alt="Olá, eu sou o Rhayron. Ensino câmeras a enxergar numa linha de montagem, reconstruo imagens de ultrassom na GPU e construo a Hina, uma companheira de desktop.">
   </picture>
 </p>
 
@@ -38,7 +38,7 @@
 
 <br clear="right">
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table border="0" cellpadding="8">
   <tr>
@@ -108,7 +108,7 @@
 </table>
 
 <details>
-<summary><b>🧰 Também na bancada</b> · ferramentas menores que nasceram de necessidades concretas</summary>
+<summary><b>Também na bancada</b> · ferramentas menores que nasceram de necessidades concretas</summary>
 <br>
 
 <table>
@@ -125,7 +125,7 @@
 
 </details>
 
-## 🧭 Trajetória
+## Trajetória
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhayron/Rhayron/main/assets/timeline-dark.svg">
@@ -134,7 +134,7 @@
 
 <p align="center"><sub>Cada ramo nasceu de um problema concreto: uma subestação que precisava ser vista por termografia, uma linha de montagem que precisava de um segundo par de olhos, uma peça que só podia ser vista por dentro com som.</sub></p>
 
-## 🛠️ Stack
+## Stack
 
 | | |
 | --: | :-- |
@@ -145,7 +145,7 @@
 | **Chão de fábrica** | ![RTSP](https://img.shields.io/badge/RTSP-444?style=flat-square) ![Modbus](https://img.shields.io/badge/Modbus%20TCP%2FIP-444?style=flat-square) ![CANopen](https://img.shields.io/badge/CANopen-444?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![OPC-UA](https://img.shields.io/badge/OPC--UA-444?style=flat-square) ![CLP](https://img.shields.io/badge/CLP%20%C2%B7%20Ladder%20%C2%B7%20ST-444?style=flat-square) ![DeviceWise](https://img.shields.io/badge/DeviceWise-444?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI%20%C2%B7%20Power%20Platform-F2C811?style=flat-square&logoColor=black) |
 | **Dados e infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite%20%C2%B7%20sqlite--vec%20%C2%B7%20FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Azure](https://img.shields.io/badge/Azure%20%C2%B7%20Blob%20%C2%B7%20DevOps-0078D4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git%20%C2%B7%20LFS-F05032?style=flat-square&logo=git&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest%20%C2%B7%20Coverage-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <picture>
@@ -173,7 +173,7 @@
   <br><sub>Os cartões contam só o que é público. A maior parte do que está acima vive em repositórios privados ou na fábrica.</sub>
 </p>
 
-## 🤝 Vamos dar forma a uma ideia?
+## Vamos dar forma a uma ideia?
 
 <p align="center">
   Pesquisa, visão computacional, IA aplicada ou um processo que precisa de um segundo par de olhos.<br>
@@ -181,7 +181,7 @@
 </p>
 
 <details>
-<summary><b>🇬🇧 In English, briefly</b></summary>
+<summary><b>In English, briefly</b></summary>
 <br>
 
 <p>Hi, I'm Rhayron, an electrical engineer from Curitiba, Brazil, building bridges between science, code and the real world.</p>
